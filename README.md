@@ -1,6 +1,5 @@
 # Terraform-com-DigitalOcean
 Script para integração de infra como código utilizando Terraform na DigitalOcean
-# CI-CD-K8S-JENKINS
 
 **Importante:** este é um trabalho em andamento.
 
